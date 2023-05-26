@@ -1,5 +1,4 @@
-<!-- <img align="center" width="400" src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif">
- -->
+
 <div id="header" align="center">
   <img src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif" width="400"/>
   
@@ -7,7 +6,7 @@
 </div>
 
 <h1 align="center">Greetings! 👋, my name is Alex</h1>
-<h3 align="center">Front-End code crafter who blends the artistry of web design with the science of coding</h3>
+<h3 align="center">Front-End code crafter passionate about blending the artistry of web design with the science of coding to create intuitive and seamless websites.</h3>
 
 
 ### Blogs posts
