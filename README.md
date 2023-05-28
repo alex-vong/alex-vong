@@ -19,6 +19,8 @@
 
 - 📧 All of my projects are available at [https://alexvong.dev](https://alexvong.dev)
 
+- 📝 I regularly write articles on [https://dev.to/alex-vong](https://dev.to/alex-vong)
+
 - 💬 I love talking, especially about **design (ux/ui, fonts, Figma), development (HTML, CSS, JS), sports, movies, random trivia**
 
 - 📄 Know about my experiences [https://alexvong.dev/images/alex-vong-resume.pdf](https://alexvong.dev/images/alex-vong-resume.pdf)
