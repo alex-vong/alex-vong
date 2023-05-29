@@ -14,6 +14,8 @@
 <!-- BLOG-POST-LIST:END -->
 
 - 🧑🏻‍💻 I’m currently working on [CineFiles](https://alexvong.dev/modules/cinefiles/)
+  - Responsive Nav/Search Bar
+  - Case study
 
 - 🌱 I’m currently learning **OOP, Node.js, MongoDB, and much more!**
 
